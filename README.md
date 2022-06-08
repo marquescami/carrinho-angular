@@ -1,4 +1,6 @@
-#Store Meet - implementação carrinho de compras com angular consumindo da API https://fakestoreapi.com/products
+# Store Meet 
+Implementação de carrinho de compras em angular usando a API https://fakestoreapi.com/products
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
